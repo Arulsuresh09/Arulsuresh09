@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arulsuresh09
 - 👀 I’m interested in Java Developer
-- 🌱 I’m currently learning Full Stack Developing 
+- 🌱 I’m currently learning Full Stack Developing course
 
 
 <!---
